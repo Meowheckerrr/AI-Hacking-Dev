@@ -1,0 +1,16 @@
+#print(words.choices[0].delta)
+
+
+
+ChoiceDelta(content='', function_call=None, role='assistant', tool_calls=None)
+ChoiceDelta(content='Hi', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content=' there', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content='!', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content=' How', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content=' can', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content=' I', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content=' assist', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content=' you', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content=' today', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content='?', function_call=None, role=None, tool_calls=None)
+ChoiceDelta(content=None, function_call=None, role=None, tool_calls=None)
